@@ -185,8 +185,8 @@
     },
     "versions": {
       "4.2.0": {
-		    "url": "http://rephial.org/downloads/4.2/angband-4.2.0-win.zip",
-		    "path": "angband-4.2.0",
+		    "url": "https://github.com/angband/angband/releases/download/4.2.3/Angband-4.2.3-win.zip",
+		    "path": "angband-4.2.3",
 		    "exec": "angband"
       }
     }
